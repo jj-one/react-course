@@ -1,0 +1,18 @@
+{
+  "meetups": [
+    {
+      "title": "Barracks Meetup",
+      "image": "https://jjcomtechlimited.com/assets/img/gallery/ehjms-benin-city1.jpg",
+      "address": "Not Planned",
+      "description": "To be dropped timely",
+      "id": 3
+    },
+    {
+      "title": "Final Test",
+      "image": "https://miro.medium.com/v2/resize:fit:1358/0*JZNALnYJXd9kGqp4.jpg",
+      "address": "No One",
+      "description": "We can now move to the next",
+      "id": 4
+    }
+  ]
+}
